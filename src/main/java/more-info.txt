@@ -1,0 +1,14 @@
+"Building Full-Stack Appilcations in Java with Vaadin" by Dan Vega
+https://www.youtube.com/watch?v=5jRwAWjMoZU
+
+Also see https://vaadin.com/docs/latest
+
+
+Use http://localhost:8080
+
+	to display a dynamic list of checkboxes which may be added.
+	
+	
+Use http://localhost:8080/posts
+
+	to display a grid and populate it with JSON via a service call.

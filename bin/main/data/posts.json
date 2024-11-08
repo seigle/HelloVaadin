@@ -1,0 +1,14 @@
+{ "posts": [
+	{
+		"name":"Scott Seigle",
+		"location":"Awesomeland"
+	},	
+	{
+		"name" : "Steven Seigle",
+		"location" : "Somewhere"
+	},	
+	{
+		"name" : "Sherman",
+		"location" : "My lap"
+	}		
+]}

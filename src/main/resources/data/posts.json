@@ -1,0 +1,14 @@
+{ "posts": [
+	{
+		"name":"Alpha1",
+		"location":"Here"
+	},	
+	{
+		"name" : "Bravo2",
+		"location" : "There"
+	},	
+	{
+		"name" : "Charlie3",
+		"location" : "Anywhere"
+	}		
+]}

@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/scott/Code/Exploration/Java/Vaadin/Hello-Vaadin_public/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/scott/Code/Exploration/Java/Vaadin/Hello-Vaadin_public/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/scott/Code/Exploration/Java/Vaadin/Hello-Vaadin_public/build/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\scott\\Code\\Exploration\\Java\\Vaadin\\Hello-Vaadin_public\\build\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\scott\\Code\\Exploration\\Java\\Vaadin\\Hello-Vaadin_public\\build\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/scott/Code/Exploration/Java/Vaadin/Hello-Vaadin_public/build/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/scott/Code/Exploration/Java/Vaadin/Hello-Vaadin_public/build/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/scott/Code/Exploration/Java/Vaadin/Hello-Vaadin_public/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\scott\\Code\\Exploration\\Java\\Vaadin\\Hello-Vaadin_public\\build\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
